@@ -4,7 +4,7 @@
 
 // Step 3. Implement the start() method to begin the timer and adjusting startTime 
 
-// Step 4. Continue implementing the start() method by copying the last line below and the restInterval() method from the file called 'Step4'.
+// Step 4. Continue implementing the start() method by copying it and the restInterval() method from the file called 'Step4'.
 
 // Step 5. Implement the stop() method by stopping the timer, saving the elapsed time, and updating the running state.
 
