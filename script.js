@@ -2,7 +2,7 @@
 
 // Step 2. Implement the timer's constructor to initialize startTime, elapsedTime, and control its state.
 
-// Step 3. // Task: Implement the start() method to begin the timer and adjusting startTime 
+// Step 3. Implement the start() method to begin the timer and adjusting startTime 
 
 // Step 4. Continue implementing the start() method by copying the last line below and the restInterval() method from the file called 'Step4'.
 
